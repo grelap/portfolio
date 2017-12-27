@@ -1,6 +1,6 @@
 # portfolio
 my personal projects
-* rock - paper - scissors - game
+##### H5 rock - paper - scissors - game
 
-demo - https://xenogonx.github.io/rock_paper_scissors_game/
-code - 
+* demo - https://xenogonx.github.io/rock_paper_scissors_game/
+* code - 
