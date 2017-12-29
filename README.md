@@ -7,4 +7,4 @@ my personal projects
 
 #### random Magic The Gathering card generator
 * demo - 
-* code - 
+* code - https://github.com/xenogonx/mtg-random-card-generator
