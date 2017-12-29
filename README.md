@@ -6,5 +6,5 @@ my personal projects
 * code - https://github.com/xenogonx/rock_paper_scissors_game
 
 #### random Magic The Gathering card generator
-* demo - 
+* demo - https://xenogonx.github.io/mtg-random-card-generator/index.html
 * code - https://github.com/xenogonx/mtg-random-card-generator
