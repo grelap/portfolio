@@ -8,3 +8,11 @@ my personal projects
 #### random Magic The Gathering card generator
 * demo - https://xenogonx.github.io/mtg-random-card-generator/index.html
 * code - https://github.com/xenogonx/mtg-random-card-generator
+
+#### simple slider
+* demo - 
+* code - 
+
+#### sample www template
+* demo - 
+* code - 
