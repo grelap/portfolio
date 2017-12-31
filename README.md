@@ -10,8 +10,8 @@ my projects
 * code - https://github.com/xenogonx/mtg-random-card-generator
 
 #### simple slider
-* demo - 
-* code - 
+* demo - https://xenogonx.github.io/simple_slider/index.html
+* code - https://xenogonx.github.io/simple_slider
 
 #### sample www template
 * demo - 
