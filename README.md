@@ -18,5 +18,5 @@ my projects
 * code - https://github.com/xenogonx/sample_www_template
 
 #### sample www with Sass and grunt
-* demo - 
-* code - 
+* demo - https://xenogonx.github.io/sample_website_with_Sass_and_grunt/
+* code - https://github.com/xenogonx/sample_website_with_Sass_and_grunt
