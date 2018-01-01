@@ -11,7 +11,7 @@ my projects
 
 #### simple slider
 * demo - https://xenogonx.github.io/simple_slider/index.html
-* code - https://xenogonx.github.io/simple_slider
+* code - https://github.com/xenogonx/simple_slider
 
 #### sample www template
 * demo - 
