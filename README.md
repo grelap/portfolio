@@ -15,7 +15,7 @@ links to my projects
 
 #### rock - paper - scissors - game
 
-* demo - https://xenogonx.github.io/rock_paper_scissors_game/
+* demo - https://grelap.github.io/rock_paper_scissors_game/
 * code - https://github.com/xenogonx/rock_paper_scissors_game
 
 #### simple slider
