@@ -15,7 +15,7 @@ links to my projects
 
 #### country search
 * demo - https://grelap.github.io/simple_country_search/
-* code - https://github.com/grelap/simple_country_search
+* code - https://github.com/grelap/simple_country_search/
 
 #### rock - paper - scissors - game
 * demo - https://grelap.github.io/rock_paper_scissors_game/
