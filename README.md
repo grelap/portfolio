@@ -13,8 +13,11 @@ links to my projects
 * demo - https://grelap.github.io/sample_website_with_Sass_and_grunt/
 * code - https://github.com/grelap/sample_website_with_Sass_and_grunt/
 
-#### rock - paper - scissors - game
+#### country search
+* demo - https://grelap.github.io/simple_country_search/
+* code - https://github.com/grelap/simple_country_search
 
+#### rock - paper - scissors - game
 * demo - https://grelap.github.io/rock_paper_scissors_game/
 * code - https://github.com/grelap/rock_paper_scissors_game/
 
